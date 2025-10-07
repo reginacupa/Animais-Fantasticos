@@ -1,13 +1,13 @@
 {
   "name": "animaisfantasticos",
   "version": "1.0.0",
-  
   "scripts": {
     "dev": "webpack --mode development --watch",
     "build": "webpack --mode production"
   },
   "license": "ISC",
   "dependencies": {
+    "@babel/runtime": "^7.28.4",
     "jquery": "^3.7.1",
     "lodash": "^4.17.21"
   },
