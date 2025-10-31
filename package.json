@@ -19,6 +19,7 @@
     "webpack-cli": "^4.10.0"
   },
   "dependencies": {
-    "@babel/runtime": "^7.28.4"
+    "@babel/runtime": "^7.28.4",
+    "ajv": "^6.12.6"
   }
 }
